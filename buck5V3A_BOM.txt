@@ -1,0 +1,21 @@
+5V3A Buck Regulator BOM, 11/22/2026
+
+QTY	Designator	Comment		Description				Footprint	MFR		MPN			DNP
+===	==========	=======		===========				=========	===		===			===
+4	C1, C2, C6, C7	22uF		CAP, MLCC, X7R, 1210, 25V, 10%, 22uF	1210		Samsung		CL32B226KLV6PJE	
+1	C3		33nF		CAP, MLCC, X5R, 50V, 10%, 33nF		0603		???		???	
+1	C4		0.1uF		CAP, MLCC, X5R, 50V, 10%, 0.1uF		0603		???		???	
+1	C8		1000pF		CAP, MLCC, C0G, 100V, 10%, 1000pF	0805		Kemet		C0402C102J1GEC7411	
+1	FB1		2A, 600 ohm	Bead, Ferrite, SMD, 80 ohm		0805		TDK		MPZ2012S601AT000	
+1	FB2		4A, 180 ohm	Bead, Ferrite, SMD, 80 ohm		0805		Murata		BLM21SP181SN1D	
+1	L1		10uH		IND, SMD, 10uH, 5.4A			IND_EXL1V0505	Coiltronics	EXL1V0505-100-R
+1	R1		53.6K		RES, CHP, 1%, 100ppm/C, 53.6K		0603		???		???	
+1	R2		10.2K		RES, CHP, 1%, 100ppm/C, 10.2K		0603		???		???	
+1	R3		49.9		RES, CHP, 1%, 100ppm/C, 49.9		0603		???		???	
+1	R6		TBD		RES, CHP, 1%, 100ppm/C, <TBD>		0603		???		???	
+1	U1		TPS62933ODRLR	IC, REG, SW, Buck, 3.8-30V, 3A		SOT-583		TI		TPS62933ODRLR
+
+1	C5		10pF		CAP, MLCC, X5R, 50V, 10%, 10pF		0603		???		???			DNP
+1	D1		5.1V		DIODE, ZENER				SOT23-A		OnSemi		SZBZX84C5V1LT1G		DNP
+1	R3b		49.9		RES, CHP, 1%, 100ppm/C, 49.9		0603		???		???			DNP
+2	R4, R5		20.0K		RES, CHP, 1%, 100ppm/C, 20.0K		0603		???		???			DNP
