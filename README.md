@@ -7,6 +7,7 @@ This SCAB is a small (1.3"x0.7") PCB that contains a TPS62933 regulator.  Adjust
 
 Gerber files are included as well as a step file representation of the SCAB.  The schematic has integrated BOM and assembly view allowing for a single document to control fabrication.
 
+<pre>
 Files:
 5V3A_dims.png            Terminal and OA dimensions
 BUCK5V3A.step            PCB step file
@@ -15,3 +16,4 @@ LICENSE                  GNU Public License
 README.md                This file
 buck5V3A_BOM.txt         Tab-delim Bill Of Materials
 buck5V3A_schem.pdf       PDF schematic
+</pre>
